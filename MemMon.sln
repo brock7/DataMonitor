@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemMon", "DataMonitor.vcproj", "{12F997ED-23C6-44C2-8836-1064DB64F045}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "probe", "probe\probe.vcproj", "{631D19B0-4F6E-41C1-AC4D-9A7687150C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F997ED-23C6-44C2-8836-1064DB64F045}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12F997ED-23C6-44C2-8836-1064DB64F045}.Debug|Win32.Build.0 = Debug|Win32
+		{12F997ED-23C6-44C2-8836-1064DB64F045}.Release|Win32.ActiveCfg = Release|Win32
+		{12F997ED-23C6-44C2-8836-1064DB64F045}.Release|Win32.Build.0 = Release|Win32
+		{631D19B0-4F6E-41C1-AC4D-9A7687150C97}.Debug|Win32.ActiveCfg = Debug|Win32
+		{631D19B0-4F6E-41C1-AC4D-9A7687150C97}.Debug|Win32.Build.0 = Debug|Win32
+		{631D19B0-4F6E-41C1-AC4D-9A7687150C97}.Release|Win32.ActiveCfg = Release|Win32
+		{631D19B0-4F6E-41C1-AC4D-9A7687150C97}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
